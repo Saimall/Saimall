@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai MAllik Rameshwaram</h1>
+<h1 align="center">Hi 👋, I'm Sai Mallik Rameshwaram</h1>
 <h3 align="center">A Full stack Developer and Researcher in Machine Learning Field</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimall&label=Profile%20views&color=0e75b6&style=flat" alt="saimall" /> </p>
