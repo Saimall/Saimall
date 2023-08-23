@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Mallik Rameshwaram</h1>
-<h3 align="center">A Full Stack Developer and Researcher in Machine Learning Field</h3>
+<h3 align="center">A Backend Developer and Researcher in Machine Learning Field</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimall&label=Profile%20views&color=0e75b6&style=flat" alt="saimall" /> </p>
 
