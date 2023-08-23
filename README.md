@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Improving of Movie Recommendation System Using Parameter Tuning**
 
-- 🌱 I’m currently learning **Typescript, Bootstrap**
+- 🌱 I’m currently learning **Typescript, Bootstrap,React**
 
-- 💬 Ask me about **full stack development and Machine Learning Related cocepts**
+- 💬 Ask me about **Backend development and Machine Learning Related cocepts**
 
 - 📫 How to reach me **rameshwaramsaimallik@gmail.com**
 
