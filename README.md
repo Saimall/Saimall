@@ -19,7 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@sai-mallik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sai-mallik" height="30" width="40" /></a>
+<a href="https://codepen.io/@sai-mallik" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="@sai-mallik" height="30" width="40" /></a>
+<a href=" [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v3.1.2-brightgreen.svg)](https://spring.io/)" target="blank"alt="@sai-mallik" height="30" width="40" /> </a>
 <a href="https://linkedin.com/in/sai mallik rameshwaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai mallik rameshwaram" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21368218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21368218" height="30" width="40" /></a>
 <a href="https://fb.com/sai mallik sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sai mallik sai" height="30" width="40" /></a>
